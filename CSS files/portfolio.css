@@ -1,0 +1,397 @@
+
+body{
+  margin: 0;
+}
+  .title {text-align: center;}
+  
+  section.Skill_info {
+  }
+  
+  .title h2 {
+    font-size: 33px;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-decoration: underline;
+    color: navy;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+  }
+  
+  .title p {
+    font-size: 22px;
+    margin-top: 0;
+    padding: 14px;
+    padding-top: 0;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+  }
+  i.fas.fa-phone {
+    font-size: 20px;
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+    padding: 5px;
+  }
+  
+  .title_bar_txt_phone h3 {
+    font-size: 20px;
+    display: inline;
+    padding: 5px;
+  }
+  
+  .title_bar_txt_phone {
+    display: inline;
+  }
+  
+  .title_bar_txt_email {
+    display: inline;
+  }
+  
+  
+  
+  .title_bar_txt_email h3 {font-size: 20px;display: inline;border-right: 2px solid black;padding: 4px;}
+  
+  i.fas.fa-envelope-open {
+    margin-left: -5px;
+    font-size: 20px;
+    border-right: 2px solid black;
+    padding: 5px;
+    border-left: 2px solid black;
+  }
+  .title_bar_txt {
+    display: inline;
+    overflow: hidden;
+    margin-left: -4px;
+  }
+  
+  .social\|_icons {
+    display: inline;
+    float: right;
+  }
+  
+  
+  .social\|_icons i {
+    font-size: 20px;
+    color: black;
+    border-right: 2px solid;
+    padding: 5px;
+    border-left: 2px solid black;
+  }
+  
+  
+  i.fab.fa-youtube {
+    border-right: 2px solid black;
+  }
+  .title_bar {
+    background-color: cadetblue;
+  }
+  
+  
+  i.fab.fa-facebook:hover {
+    color: white;
+    background: blue;
+  }
+  
+  i.fab.fa-instagram-square:hover {
+    color: darkorange;
+    background: white;
+  }
+  
+  i.fab.fa-youtube:hover {
+    color: red;
+    background: white;
+  }
+  
+  
+  .logo img {
+    height: 22px;
+    width: 181px;
+  }
+  
+  .logo {
+    display: inline;
+  }
+  i.fab.fa-facebook {
+    margin-right: -6px;
+  }
+  
+  i.fab.fa-instagram-square {
+    margin-right: -6px;
+  }
+  .msinwrapper a {
+    text-decoration: none;
+    margin-left: 14px;
+    padding: 2px;
+  }
+  
+  .msinwrapper a h3 {
+    display: inline;
+    font-size: 20px;
+    padding: 5px;
+    color: slategray;
+    font-family: system-ui;
+    letter-spacing: 1px;
+  }
+  
+  .msinwrapper a h3:hover {
+        background: darkgray;
+        color: black;
+  }
+  
+  .msinwrapper {float: right;background: aqua;padding: 5px;margin-top: -5px;padding-left: 0;}
+  .menu {
+    background: yellowgreen;
+    height: 27px;
+    padding: 5px;
+  }
+  .msinwrapper a:first-child {
+    padding-left: 276px;
+  }
+ 
+  
+  header {position: sticky;}
+ 
+  .title {text-align: center;}
+  
+  .about_us {
+    width: 315px;
+    padding-left: 52px;
+    float: left;
+    margin-right: 50px;
+    height: 300px;
+    padding-top: 35px;
+  }
+  
+  .social {}
+  
+  .adress {
+    width: 315px;
+    padding-left: 89px;
+    float: left;
+    margin-right: 55px;
+    height: 300px;
+    padding-top: 35px;
+    color: white;
+  }
+  
+  .about_us p {
+  }
+  
+  .footer_details {
+  }
+  
+  a.fb_icon\> {
+    font-size: 28px;
+    margin-right: 10px;
+    color: darkgoldenrod;
+  }
+  
+  a.instra {
+    font-size: 28px;
+    color: darkgoldenrod;
+    margin-right: 10px;
+  }
+  
+  a.youtubeicon {
+    font-size: 28px;
+    color: darkgoldenrod;
+  }
+
+
+
+  section.portfolio h1 {
+    text-align: center;
+    font-size: 44px;
+    font-family: monospace;
+    color: orangered;
+    background: springgreen;
+    height: 62px;
+    padding-top: 5px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.website h2 {
+    font-size: 30px;
+    margin-left: 30%;
+    border-bottom: 4px solid indianred;
+    width: 490px;
+    margin-top: 0;
+    padding-top: 8px;
+}
+
+img {
+    width: 240px;
+    height: 200px;
+    margin-right: 5px;
+}
+
+.part1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 4%;
+}
+
+.graphics.desgin h2 {font-size: 30px;margin-left: 35%;border-bottom: 4px solid indianred;width: 367px;margin-bottom: 10px;padding-top: 6px;}
+
+.dataentry h2 {
+    font-size: 30px;
+    margin-left: 39%;
+    border-bottom: 4px solid indianred;
+    width: 293px;
+    margin-bottom: 10px;
+    padding-top: 8px;
+}
+
+.slide h2 {
+    font-size: 30px;
+    margin-left: 35%;
+    border-bottom: 4px solid indianred;
+    width: 373px;
+    margin-bottom: 10px;
+    padding-top: 6px;
+}
+
+.website {
+    background: cornflowerblue;
+    padding-bottom: 5px;
+}
+
+.graphics.desgin {
+    background: blueviolet;
+    margin-top: -25px;
+    padding-bottom: 5px;
+}
+
+.dataentry {
+    background: cadetblue;
+    margin-top: -25px;
+    padding-bottom: 5px;
+}
+
+.slide {
+    background: darkgray;
+    margin-top: -25px;
+    padding-bottom: 5px;
+}
+section.thanks h1 {
+  height: 50px;
+  background: darkkhaki;
+  text-align: center;
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 0;
+  color: darkblue;
+}
+
+
+
+  
+  .about_us h1 {
+    border-bottom: 2px solid red;
+    color: white;
+  }
+  
+  h1.map {
+    font-size: 26px;
+    display: inline;
+    float: left;
+    padding: 14px;
+    margin-top: -17px;
+  }
+  h1.adreess.h1 {
+    border-bottom: 2px solid red;
+  }
+  
+  .contact_us {width: 315px;padding-left: 60px;float: left;height: 300px;color: white;padding-top: 35px;}
+  
+  h1.contactus.h1 {
+    border-bottom: 2px solid red;
+  }
+  .footer_details {
+    background: black;
+    margin-top: -25px;
+    padding-top: 0px;
+  }
+  
+  .about_us {}
+  
+  .about_us p {
+    font-size: 21px;
+    color: white;
+  }
+  
+  .about_us {}
+  
+  .location h2 {
+    font-size: 18px;
+  }
+  i.fas.fa-mobile-alt {
+    font-size: 29px;
+    float: left;
+    padding: 15px;
+    padding-left: 0;
+    margin-left: -32px;
+  }
+  
+  .footer_phone h3 {
+    font-size: 18px;
+    padding: 19px;
+  }
+  
+  i.fas.fa-paper-plane {
+    float: left;
+    font-size: 28px;
+    padding: 10px;
+  }
+  
+  .footer_email h3 {
+    font-size: 19px;
+    padding: 10px;
+  }
+  .abc {text-align: center;}
+  
+  .abc h3 {
+    font-size: 25px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: wheat;
+  }
+  footer {
+    background: black;
+    padding-bottom: 1px;
+  }
+  input[type="email"] {
+    margin-top: 11px;
+  }
+  
+  h2 {}
+  
+  .send_email h2 {
+    margin-top: -13px;
+  }
+  
+  .send_email_msg {
+    margin-top: -4px;
+  }
+  
+  input[type="text"] {
+  }
+  
+  button.send {
+    width: 176px;
+    margin-top: 23px;
+    background: red;
+  }
+  
+  button.send h2 {height: 8px;margin-top: -2px;font-size: 18px;}
+  .send_email_msg h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .send_email h2 {
+    font-size: 20px;
+    margin-bottom: -3px;
+  }
+  
